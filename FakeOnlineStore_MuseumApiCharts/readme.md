@@ -7,7 +7,7 @@ It contains the code to create charts and graphs by making an api call.
 
 - [PruthviKumarP](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/FakeOnlineStore_MuseumApiCharts)
 
-![Json2Flat 1.0.3](https://img.shields.io/badge/json2flat-1.0.3-green.svg](https://search.maven.org/artifact/com.github.opendevl/json2flat/1.0.3/jar) 
+[![Json2Flat 1.0.3](https://img.shields.io/badge/json2flat-1.0.3-green.svg)](https://search.maven.org/artifact/com.github.opendevl/json2flat/1.0.3/jar) 
 
 [![opencsv 1.7](https://img.shields.io/badge/opencsv-1.7-green.svg)](https://sourceforge.net/projects/opencsv/) 
 
