@@ -1,4 +1,4 @@
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Fdata-chart&psig=AOvVaw2_XExgujMPEsdBqN26MBDo&ust=1665224377425000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjew7LyzfoCFQAAAAAdAAAAABAS")
+(img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/data-extraction-concept-illustration_114360-4766.jpg?w=1800&t=st=1665138085~exp=1665138685~hmac=0585501d748989d13ac85c7606d1e445bacff1522e6129c960fa29712e0b866e")
 
 [![JFree 1.5.3](https://img.shields.io/badge/jfree-1.5.3-green.svg)](https://search.maven.org/artifact/org.jfree/jfreechart/1.5.3/jar) 
 
