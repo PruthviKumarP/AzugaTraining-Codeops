@@ -1,4 +1,4 @@
-![zip4j 1.5.3](https://img.shields.io/badge/zip4j-2.11.2-green.svg)](https://search.maven.org/artifact/net.lingala.zip4j/zip4j/2.11.2/jar) 
+[![zip4j 1.5.3](https://img.shields.io/badge/zip4j-2.11.2-green.svg)](https://search.maven.org/artifact/net.lingala.zip4j/zip4j/2.11.2/jar) 
 
 [![activation 1.1.1](https://img.shields.io/badge/activation-1.1.1-green.svg)](https://mvnrepository.com/artifact/javax.activation/activation/1.1.1) 
 
