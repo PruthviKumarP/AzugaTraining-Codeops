@@ -5,7 +5,7 @@ It contains the code to create charts and graphs by making an api call.
 
 ## Authors
 
-- [@PruthviKumarP](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/FakeOnlineStore_MuseumApiCharts)
+- [PruthviKumarP](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/FakeOnlineStore_MuseumApiCharts)
 
 ![Json2Flat 1.0.3](https://img.shields.io/badge/json2flat-1.0.3-green.svg)](https://search.maven.org/artifact/com.github.opendevl/json2flat/1.0.3/jar) 
 
