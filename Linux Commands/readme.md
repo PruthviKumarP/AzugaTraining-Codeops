@@ -1,5 +1,3 @@
-[![pdfunit](https://img.shields.io/badge/pdfunit-jar-green.svg)](http://www.pdfunit.com/en/download/) 
-
 [![Junit jupiter](https://img.shields.io/badge/JUnit_jupiter_engine-5.9.1-green.svg)](https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-engine) 
 
 [![Junit jupiter](https://img.shields.io/badge/JUnit_jupiter_API-5.9.1-green.svg)](https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api) 
