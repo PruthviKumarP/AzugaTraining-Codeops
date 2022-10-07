@@ -1,5 +1,3 @@
-(img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/data-extraction-concept-illustration_114360-4766.jpg")
-
 [![JFree 1.5.3](https://img.shields.io/badge/jfree-1.5.3-green.svg)](https://search.maven.org/artifact/org.jfree/jfreechart/1.5.3/jar) 
 
 
