@@ -76,7 +76,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 If you have any feedback, please reach out to me at [pruthvikumar.p24@gmail.com](pruthvikumar.p24m.tech@gmail.com).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PruthviKumarP&show_icons=true&theme=cobalt)
+![PruthviKumarP GitHub stats](https://github-readme-stats.vercel.app/api?username=PruthviKumarP&show_icons=true&theme=cobalt)
 
 
 
