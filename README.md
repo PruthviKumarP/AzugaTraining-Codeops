@@ -37,9 +37,9 @@ The Project has some Prerequisites, jar files / libraries must be installed or a
 
 ## Roadmap
 
-- :computer: LINUX COMMANDS 
+- :computer: CLI LINUX COMMANDS 
 
-    -   --  [ LINUX COMMANDS ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/Linux%20Commands)
+    -   --  [ Linux Command ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/Linux%20Commands)
    
 - :earth_americas: REST API
 
