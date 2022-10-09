@@ -2,6 +2,13 @@
 # File Compression & Send Mail
 
 File compression is a data compression technology that reduces the logical size of a file to conserve disc space and allow for simpler and quicker transmission across a network or the Internet. The Zip directory includes the java code for compressing the reports acquired from the converters and charts files output data reterived from the museum & fake online store API, as well as the code for sending the zip file over email.
+
+<div align="center">
+<img src="https://ubiq.co/tech-blog/wp-content/uploads/2020/08/install-zip-unzip-627x410.png" width="350px" height="200px">
+<img src="http://www.cbit.ca/wp-content/uploads/2021/04/Direct-Mail.jpg" width="350px" height="200px">
+</div>
+
+
 ## Authors
 
 - [@PruthviKumarP](https://github.com/PruthviKumarP/AzugaTraining-Codeops.git)
