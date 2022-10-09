@@ -1,8 +1,8 @@
 # Charts
-Generating multiple charts from [FakeOnlineStore API](https://fakestoreapi.com/docs)
+FakeStoreApi is a free online REST API that you can use whenever you need Pseudo-real data for your e-commerce or shopping website without running any server-side code. It's awesome for teaching purposes, sample codes, tests, etc. Using that Api generating a multiple charts.
 
 <div align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RaC0tZyV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3fqoynbiyvtxa2kh3vrn.png" width="650px" height"450px">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RaC0tZyV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3fqoynbiyvtxa2kh3vrn.png" width="750px" height"550px">
 </div>
 
 ## Installation
@@ -25,6 +25,10 @@ The project requires the installation of jar files/libraries or the addition of 
 
 
 ## Features
+
+<div align="center">
+  <img src="https://vaadin.com/docs/v14/static/409a9ee854cf6d367c4dd6553d4c679f/ddcfb/charts-overview.webp" width="350px" height"250px">
+</div>
 
 This project's features are listed below.
 
