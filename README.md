@@ -18,8 +18,6 @@ Install my-project with git
   cd my-project
 ```
 
-The project doesnot need any installation , by adding this project to the IDE's workspace and adding all the required jar files given below to the class path the project will surve its purpose.
-
 ### Prerequisites
 
 The Project has some Prerequisites, jar files / libraries must be installed or added to the dependency’s. Following are required Jar files to add to the classPath for different features,
