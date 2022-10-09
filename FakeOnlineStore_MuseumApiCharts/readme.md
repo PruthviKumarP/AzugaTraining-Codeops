@@ -70,12 +70,16 @@ This project's features are listed below.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/PruthviKumarP/AzugaTraining-Codeops/blob/main/LICENSE)
 
-## Feedback
-
-If you have any feedback, please reach out to me at [pruthvikumar.p24@gmail.com](pruthvikumar.p24m.tech@gmail.com).
-
 
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at [pruthvikumar.p24@gmail.com](pruthvikumar.p24m.tech@gmail.com).
+
+![PruthviKumarP GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)
+
