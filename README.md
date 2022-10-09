@@ -50,7 +50,7 @@ The Project has some Prerequisites, jar files / libraries must be installed or a
     -   --  [ HTML File](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/MuseumApiConverter)
     -   --  [ XML File](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/MuseumApiConverter)
     
-- :bar_chart: CHARTS GENERATOR
+- :bar_chart: CHARTS
 
     -   --  [ Bar Chart ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/FakeOnlineStore_MuseumApiCharts)
     -   --  [ Pie Chart ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/FakeOnlineStore_MuseumApiCharts)
