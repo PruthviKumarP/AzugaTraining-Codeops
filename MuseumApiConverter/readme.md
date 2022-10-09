@@ -8,9 +8,6 @@ The API response dataset contains data in the form of json. Here calling the mus
   <img src="https://th-thumbnailer.cdn-si-edu.com/QOA7bQ93-6Es95SjW5mA-_5Pb_8=/1000x750/filters:no_upscale():focal(1485x1557:1486x1558)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/da/54/da541590-d437-4325-b640-3892f884f395/makingthemet_signature_image_girls_011320-jpg_original_300dpi.jpg" width="600px" height="450px">
 </div>
 
-<div align="center">
-  <img src="https://i.ytimg.com/vi/3_U5T2Qg5_o/maxresdefault.jpg" width="400px" height="250px">
-</div>
 
 ## Authors
 
@@ -35,6 +32,10 @@ The project requires the installation of jar files/libraries or the addition of 
 
 [![json-flattener 2.7.0](https://img.shields.io/badge/json_flattener-0.14.0-green.svg)](https://search.maven.org/artifact/com.github.wnameless.json/json-flattener/0.14.0/jar) 
 ## Features
+
+<div align="center">
+  <img src="https://i.ytimg.com/vi/3_U5T2Qg5_o/maxresdefault.jpg" width="400px" height="250px">
+</div>
 
 This project's features are listed below.
 
