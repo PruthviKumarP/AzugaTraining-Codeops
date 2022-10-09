@@ -27,7 +27,7 @@ The project requires the installation of jar files/libraries or the addition of 
 ## Features
 
 <div align="center">
-  <img src="https://vaadin.com/docs/v14/static/409a9ee854cf6d367c4dd6553d4c679f/ddcfb/charts-overview.webp" width="350px" height"250px">
+  <img src="https://ridzeal.com/wp-content/uploads/2021/01/social-media-analytics-tools.jpg" width="350px" height"250px">
 </div>
 
 This project's features are listed below.
