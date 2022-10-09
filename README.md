@@ -48,20 +48,20 @@ The Project has some Prerequisites, jar files / libraries must be installed or a
 
 - :open_file_folder: FILES CONVERTER
 
-    -   --  [ PDF FILE](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/MuseumApiConverter)
-    -   --  [ HTML FILE](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/MuseumApiConverter)
-    -   --  [ XML FILE](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/MuseumApiConverter)
+    -   --  [ PDF File](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/MuseumApiConverter)
+    -   --  [ HTML File](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/MuseumApiConverter)
+    -   --  [ XML File](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/MuseumApiConverter)
     
 - :bar_chart: CHARTS GENERATOR
 
-    -   --  [ BAR GRAPH ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/FakeOnlineStore_MuseumApiCharts)
-    -   --  [ PIE CHART](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/FakeOnlineStore_MuseumApiCharts)
+    -   --  [ Bar Chart ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/FakeOnlineStore_MuseumApiCharts)
+    -   --  [ Pie Chart ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/FakeOnlineStore_MuseumApiCharts)
 
 - :mailbox: ZIP/UNZIP AND MAIL
 
-    -   --  [ ZIP ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/Zip_Unzip_Mail)
-    -   --  [ UNZIP ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/Zip_Unzip_Mail)
-    -   --  [ MAIL ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/Zip_Unzip_Mail)
+    -   --  [ Zip ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/Zip_Unzip_Mail)
+    -   --  [ Unzip ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/Zip_Unzip_Mail)
+    -   --  [ Mail ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/Zip_Unzip_Mail)
 
 
 
