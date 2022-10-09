@@ -120,11 +120,9 @@ GET https://fakestoreapi.com/products/${id}
 ```
 
 
-## Tech Stack
+## Language
 
-- JDK(11)
-- Intellij IDEA
-- Diffblue
+-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PruthviKumarP&layout=compact)](https://github.com/PruthviKumarP/github-readme-stats)
 
 
 ## License
