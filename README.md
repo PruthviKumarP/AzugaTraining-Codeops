@@ -1,6 +1,13 @@
 # AzugaTraining-Codeops
 
 The Azuga Training Project entails the development of well-modularized Java code that provides various functionalities. These codes are written as part of CodeOps training as day-to-day tasks and are uploaded to the Github repository so that they can be used for future references and will be available for any updates and suggestions from the people for project upgradation.
+
+<div align="center">
+<img src="https://img.contractormag.com/files/base/ebm/contractormag/image/2021/10/Azuga_logo.61703a7a1e75a.png?auto=format,compress&fit=crop&h=556&w=1000&q=45" width = "400px" height = "250px">
+<img src="https://codeops.tech/assets/codeops/codeopsMetaImage.png" width = "400px" height = "250px">
+</div>  
+  
+  
 ## Authors
 
 - [@pruthvikumar.p24@gmail.com](https://github.com/PruthviKumarP)
@@ -15,11 +22,9 @@ Install my-project with git
   cd my-project
 ```
 
-The project doesnot need any installation , by adding this project to the IDE's workspace and adding all the required jar files given below to the class path the project will surve its purpose.
-
 ### Prerequisites
 
-The Project has some Prerequisites, jar files / libraries must be installed or added to the dependency’s. Following are required Jar files to add to the classPath for different features,
+The Project has some Prerequisites, jar files / libraries must be installed or added to the dependency’s. Following are required Jar files to add to the classPath for different features.
 
 1. [pdfunit-java-2016.05.jar](http://www.pdfunit.com/en/download/)
 2. [javax.mail.jar](https://jar-download.com/artifacts/com.sun.mail/javax.mail/1.6.1/source-code)
@@ -34,11 +39,32 @@ The Project has some Prerequisites, jar files / libraries must be installed or a
 
 ## Roadmap
 
-- The development of project is completed under features branch i.e, [features](https://github.com/PruthviKumarP/AzugaTraining.git)
+- :computer: CLI LINUX COMMANDS 
 
-- The development of JAR file is completed under development branch i.e, [develop](https://github.com/PruthviKumarP/AzugaTraining/tree/develop/Jar-Zip-Mail)
+    -   --  [ Linux Command ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/Linux%20Commands)
+   
+- :earth_americas: REST API
 
-- The testing of the program's is completed under testing branch i.e, [testing](https://github.com/PruthviKumarP)
+    -   --  [ Museum API ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/MuseumApiConverter)
+    -   --  [ Fake Online Store API ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/FakeOnlineStore_MuseumApiCharts)
+
+- :open_file_folder: FILES CONVERTER
+
+    -   --  [ PDF File](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/MuseumApiConverter)
+    -   --  [ HTML File](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/MuseumApiConverter)
+    -   --  [ XML File](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/MuseumApiConverter)
+    
+- :bar_chart: CHARTS
+
+    -   --  [ Bar Chart ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/FakeOnlineStore_MuseumApiCharts)
+    -   --  [ Pie Chart ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/FakeOnlineStore_MuseumApiCharts)
+
+- :mailbox: ZIP/UNZIP AND MAIL
+
+    -   --  [ Zip ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/Zip_Unzip_Mail)
+    -   --  [ Unzip ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/Zip_Unzip_Mail)
+    -   --  [ Mail ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/Zip_Unzip_Mail)
+
 
 
 ## Features
@@ -98,17 +124,9 @@ GET https://fakestoreapi.com/products/${id}
 ```
 
 
-## Tech Stack
-
-- JDK(11)
-- Intellij IDEA
-- Diffblue
-
-
 ## License
 
 [MIT](https://github.com/PruthviKumarP/AzugaTraining/blob/main/LICENSE)
-
 
 ## 🚀 About Me
 I'm a java full stack developer...
@@ -122,4 +140,6 @@ I'm a java full stack developer...
 
 ## Feedback
 
-If you have any feedback, please reach out to us at pruthvikumar.p24m.tech@gmail.com
+If you have any feedback, please reach out to us at [pruthvikumar.p24m.tech@gmail.com](pruthvikumar.p24m.tech@gmail.com)
+
+![PruthviKumarP GitHub stats](https://github-readme-stats.vercel.app/api?username=PruthviKumarP&show_icons=true&theme=radical)
