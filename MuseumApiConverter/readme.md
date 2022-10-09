@@ -5,7 +5,7 @@ The Metropolitan Museum of Art API provides maximum commercial and noncommercial
 The API response dataset contains data in the form of json. Here calling the museum API programmatically to perform file conversion operations to convert .csv, .html, .xlsx, .pdf, and.xml file formats.
 
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.smithsonianmag.com%2Fsmart-news%2Fmetropolitan-museum-art-celebrates-150-years-180976246%2F&psig=AOvVaw0JEQW7XuexLx04nW3YsEsn&ust=1665431715414000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICZ9OD20_oCFQAAAAAdAAAAABAq" width="600px" height="450px">
+  <img src="https://th-thumbnailer.cdn-si-edu.com/QOA7bQ93-6Es95SjW5mA-_5Pb_8=/1000x750/filters:no_upscale():focal(1485x1557:1486x1558)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/da/54/da541590-d437-4325-b640-3892f884f395/makingthemet_signature_image_girls_011320-jpg_original_300dpi.jpg" width="600px" height="450px">
 </div>
 ## Authors
 
