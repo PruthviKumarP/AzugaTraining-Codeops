@@ -37,11 +37,32 @@ The Project has some Prerequisites, jar files / libraries must be installed or a
 
 ## Roadmap
 
-- The development of project is completed under features branch i.e, [features](https://github.com/PruthviKumarP/AzugaTraining.git)
+- :computer: LINUX COMMANDS 
 
-- The development of JAR file is completed under development branch i.e, [develop](https://github.com/PruthviKumarP/AzugaTraining/tree/develop/Jar-Zip-Mail)
+    -   --  [ LINUX COMMANDS ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/Linux%20Commands)
+   
+- :earth_americas: REST API
 
-- The testing of the program's is completed under testing branch i.e, [testing](https://github.com/PruthviKumarP)
+    -   --  [ Museum API ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/MuseumApiConverter)
+    -   --  [ Fake Online Store API ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/FakeOnlineStore_MuseumApiCharts)
+
+- :open_file_folder: FILES CONVERTER
+
+    -   --  [ PDF FILE](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/MuseumApiConverter)
+    -   --  [ HTML FILE](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/MuseumApiConverter)
+    -   --  [ XML FILE](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/MuseumApiConverter)
+    
+- :bar_chart: CHARTS GENERATOR
+
+    -   --  [ BAR GRAPH ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/FakeOnlineStore_MuseumApiCharts)
+    -   --  [ PIE CHART](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/FakeOnlineStore_MuseumApiCharts)
+
+- :mailbox: ZIP/UNZIP AND MAIL
+
+    -   --  [ ZIP ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/Zip_Unzip_Mail)
+    -   --  [ UNZIP ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/Zip_Unzip_Mail)
+    -   --  [ MAIL ](https://github.com/PruthviKumarP/AzugaTraining-Codeops/tree/develop/Zip_Unzip_Mail)
+
 
 
 ## Features
