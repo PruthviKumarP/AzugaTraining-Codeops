@@ -138,4 +138,4 @@ I'm a java full stack developer...
 
 If you have any feedback, please reach out to us at [pruthvikumar.p24m.tech@gmail.com](pruthvikumar.p24m.tech@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![PruthviKumarP GitHub stats](https://github-readme-stats.vercel.app/api?username=PruthviKumarP&show_icons=true&theme=radical)
