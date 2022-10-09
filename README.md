@@ -122,7 +122,7 @@ GET https://fakestoreapi.com/products/${id}
 
 ## Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PruthviKumarP&hide=html,css)](https://github.com/PruthviKumarP/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-java/?username=PruthviKumarP&hide=html,css)](https://github.com/PruthviKumarP/github-readme-stats)
 
 
 ## License
