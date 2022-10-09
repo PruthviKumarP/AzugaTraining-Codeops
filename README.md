@@ -136,11 +136,7 @@ I'm a java full stack developer...
 
 ## Feedback
 
-If you have any feedback, please reach out to us at pruthvikumar.p24m.tech@gmail.com
+If you have any feedback, please reach out to us at [pruthvikumar.p24m.tech@gmail.com](pruthvikumar.p24m.tech@gmail.com)
 
 
-## Language
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PruthviKumarP&theme=blue-green)
-
-## Status
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=PruthviKumar&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
