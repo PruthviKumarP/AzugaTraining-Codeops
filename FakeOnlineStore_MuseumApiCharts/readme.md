@@ -19,7 +19,6 @@ The project requires the installation of jar files/libraries or the addition of 
 
 [![json-path 2.7.0](https://img.shields.io/badge/json_path-2.7.0-green.svg)](https://search.maven.org/artifact/com.jayway.jsonpath/json-path/2.7.0/jar) 
 
-[![json-flattener 2.7.0]()
 
 ## Features
 
