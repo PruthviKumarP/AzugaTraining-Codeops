@@ -119,16 +119,10 @@ Get nth url items
 GET https://fakestoreapi.com/products/${id}
 ```
 
+
 ## License
 
 [MIT](https://github.com/PruthviKumarP/AzugaTraining/blob/main/LICENSE)
-
-## Language
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PruthviKumarP&theme=blue-green)
-
-##
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=PruthviKumar&show_icons=true)
-
 
 ## 🚀 About Me
 I'm a java full stack developer...
@@ -143,3 +137,10 @@ I'm a java full stack developer...
 ## Feedback
 
 If you have any feedback, please reach out to us at pruthvikumar.p24m.tech@gmail.com
+
+
+## Language
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PruthviKumarP&theme=blue-green)
+
+## Status
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=PruthviKumar&show_icons=true)
