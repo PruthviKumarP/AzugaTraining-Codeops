@@ -102,7 +102,7 @@ All these library combined with will form a JUnit environment and to run Junit t
 
 If you have any feedback, please reach out to me at [pruthvikumar.p24m.tech@gmail.com](pruthvikumar.p24m.tech@gmail.com).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/PruthviKumarP/AzugaTraining-Codeops/edit/develop/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PruthviKumarP&layout=compact)](https://github.com/PruthviKumarP/AzugaTraining-Codeops/edit/develop/github-readme-stats)
 
 
 ## 🔗 Links
