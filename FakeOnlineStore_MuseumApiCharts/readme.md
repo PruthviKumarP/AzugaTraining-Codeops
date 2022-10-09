@@ -1,6 +1,10 @@
 # Charts
 Generating multiple charts from [FakeOnlineStore API](https://fakestoreapi.com/docs)
 
+<div align="center">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RaC0tZyV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3fqoynbiyvtxa2kh3vrn.png" width="650px" height"450px">
+</div>
+
 ## Installation
 
 This project requires JDK 11 or above version and It need some external jar files to run application.
