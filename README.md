@@ -5,7 +5,9 @@ The Azuga Training Project entails the development of well-modularized Java code
 <div align="center">
 <img src="https://img.contractormag.com/files/base/ebm/contractormag/image/2021/10/Azuga_logo.61703a7a1e75a.png?auto=format,compress&fit=crop&h=556&w=1000&q=45" width = "400px" height = "250px">
 <img src="https://codeops.tech/assets/codeops/codeopsMetaImage.png" width = "400px" height = "250px">
-<div>  
+</div>  
+  
+  
 ## Authors
 
 - [@pruthvikumar.p24@gmail.com](https://github.com/PruthviKumarP)
