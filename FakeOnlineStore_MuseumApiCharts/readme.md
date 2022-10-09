@@ -25,10 +25,8 @@ The project requires the installation of jar files/libraries or the addition of 
 
 This project's features are listed below.
 
-- [Bar graph](): This program generate bar graph from data of fakestore API. Product to price comparision can be seen in the bar graph.
-
-- [Pie Chart](): This program generate pie chart from data of cryptocurrency api. It consist of some cryptocurrency and their marketcap as the dataset.
-
+- [Bar graph](): This program creates a bar graph using data from the fakestore API. The bar graph shows a product price & review comparison.
+- [Pie Chart](): This program generate pie chart from data of fake onlie store api.
 ## API Reference
 ### FakeStore Api
 #### Get all items
