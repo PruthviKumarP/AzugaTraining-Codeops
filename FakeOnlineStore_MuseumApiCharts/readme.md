@@ -29,6 +29,7 @@ This project's features are listed below.
 
 - [Pie Chart](): This program generate pie chart from data of cryptocurrency api. It consist of some cryptocurrency and their marketcap as the dataset.
 
+## API Reference
 ### FakeStore Api
 #### Get all items
 
