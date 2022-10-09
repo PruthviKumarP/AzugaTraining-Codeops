@@ -3,7 +3,7 @@
 
 In comparison to other operating systems such as Windows. Linux has a sophisticated command-line interface. Certain linux commands with pipe were developed here using java applications that mimic the operation of some fundamental linux commands.
 
-<img src="https://www.opensourceforu.com/wp-content/uploads/2017/02/Tux-with-tablet.jpg" width="650px" height="350px">
+<center><img src="https://www.opensourceforu.com/wp-content/uploads/2017/02/Tux-with-tablet.jpg" width="650px" height="350px"></center>
 
 ## Authors
 
