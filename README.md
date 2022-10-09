@@ -119,15 +119,15 @@ Get nth url items
 GET https://fakestoreapi.com/products/${id}
 ```
 
-
-## Language
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PruthviKumarP&langs_count=8)]()
-
-
 ## License
 
 [MIT](https://github.com/PruthviKumarP/AzugaTraining/blob/main/LICENSE)
+
+## Language
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PruthviKumarP&theme=blue-green)
+
+##
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=PruthviKumar&show_icons=true)
 
 
 ## 🚀 About Me
