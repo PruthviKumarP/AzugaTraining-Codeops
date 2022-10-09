@@ -2,8 +2,8 @@
 
 The Azuga Training Project entails the development of well-modularized Java code that provides various functionalities. These codes are written as part of CodeOps training as day-to-day tasks and are uploaded to the Github repository so that they can be used for future references and will be available for any updates and suggestions from the people for project upgradation.
 
-<img src="https://img.contractormag.com/files/base/ebm/contractormag/image/2021/10/Azuga_logo.61703a7a1e75a.png?auto=format,compress&fit=crop&h=556&w=1000&q=45" width = "400px" height = "300px"> <-------------->
-<img src="https://codeops.tech/assets/codeops/codeopsMetaImage.png" width = "400px" height = "300px">
+<img src="https://img.contractormag.com/files/base/ebm/contractormag/image/2021/10/Azuga_logo.61703a7a1e75a.png?auto=format,compress&fit=crop&h=556&w=1000&q=45" width = "400px" height = "250px"> <-------------->
+<img src="https://codeops.tech/assets/codeops/codeopsMetaImage.png" width = "400px" height = "250px">
 ## Authors
 
 - [@pruthvikumar.p24@gmail.com](https://github.com/PruthviKumarP)
