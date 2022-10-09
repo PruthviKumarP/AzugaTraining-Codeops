@@ -6,7 +6,7 @@ The API response dataset contains data in the form of json. Here calling the mus
 
 <div align="center">
   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.smithsonianmag.com%2Fsmart-news%2Fmetropolitan-museum-art-celebrates-150-years-180976246%2F&psig=AOvVaw0JEQW7XuexLx04nW3YsEsn&ust=1665431715414000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICZ9OD20_oCFQAAAAAdAAAAABAq" width="600px" height="450px">
-<div>
+</div>
 ## Authors
 
 - [@PruthviKumarP](https://github.com/PruthviKumarP/AzugaTraining-Codeops.git)
