@@ -20,7 +20,7 @@ Install my-project with git
 
 ### Prerequisites
 
-The Project has some Prerequisites, jar files / libraries must be installed or added to the dependency’s. Following are required Jar files to add to the classPath for different features,
+The Project has some Prerequisites, jar files / libraries must be installed or added to the dependency’s. Following are required Jar files to add to the classPath for different features.
 
 1. [pdfunit-java-2016.05.jar](http://www.pdfunit.com/en/download/)
 2. [javax.mail.jar](https://jar-download.com/artifacts/com.sun.mail/javax.mail/1.6.1/source-code)
