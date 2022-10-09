@@ -81,5 +81,5 @@ This project's features are listed below.
 
 If you have any feedback, please reach out to me at [pruthvikumar.p24@gmail.com](pruthvikumar.p24m.tech@gmail.com).
 
-![PruthviKumarP GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)
+![PruthviKumarP GitHub stats](https://github-readme-stats.vercel.app/api?username=PruthviKumarP&show_icons=true&theme=highcontrast)
 
